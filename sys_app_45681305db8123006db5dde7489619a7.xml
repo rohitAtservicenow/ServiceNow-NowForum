@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Trest">89685305db8123006db5dde7489619ba</menu>
+        <name>Trest</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_16426_trest</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_16426_trest</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>rohit.khaire</sys_created_by>
+        <sys_created_on>2018-10-08 05:58:17</sys_created_on>
+        <sys_id>45681305db8123006db5dde7489619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>rohit.khaire</sys_updated_by>
+        <sys_updated_on>2018-10-08 05:58:17</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_16426_trest.user" name="x_16426_trest.user">05685305db8123006db5dde7489619bd</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

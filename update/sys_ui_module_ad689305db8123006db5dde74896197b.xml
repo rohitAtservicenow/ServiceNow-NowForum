@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Trest">2d689305db8123006db5dde748961979</application>
+        <filter/>
+        <name>Trest Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_16426_trest.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>rohit.khaire</sys_created_by>
+        <sys_created_on>2018-10-08 05:58:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad689305db8123006db5dde74896197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trest Table</sys_name>
+        <sys_package display_value="Trest" source="x_16426_trest">45681305db8123006db5dde7489619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Trest">45681305db8123006db5dde7489619a7</sys_scope>
+        <sys_update_name>sys_ui_module_ad689305db8123006db5dde74896197b</sys_update_name>
+        <sys_updated_by>rohit.khaire</sys_updated_by>
+        <sys_updated_on>2018-10-08 05:58:19</sys_updated_on>
+        <table>x_16426_trest_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
